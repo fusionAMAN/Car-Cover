@@ -11,6 +11,3 @@ Saves the data into a CSV file: olx_car_covers.csv.
 🧰 Requirements
 Python 3.x
 
-requests
-
-beautifulsoup4
